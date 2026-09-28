@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saiandeepika-wedding.example.com/sitemap.xml

@@ -1092,3 +1092,31 @@ body {
   font-size: 1.6rem;
   color: var(--gold);
 }
+.site-footer {
+  text-align: center;
+  padding: 16px;
+  background: var(--cream);
+  border-top: 1px solid rgba(203, 161, 53, 0.25);
+}
+.footer-credit,
+.footer-copyright {
+  margin: 0;
+  color: #6b5b5f;
+  font-size: 0.8rem;
+}
+.footer-credit {
+  color: var(--rose-dark);
+}
+.footer-copyright {
+  margin-top: 4px;
+}
+.visitor-counter {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.visitor-counter img {
+  display: block;
+  width: auto;
+  height: 20px;
+}

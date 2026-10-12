@@ -676,8 +676,14 @@ body {
   display: block;
   color: var(--gold);
   font-size: 0.85rem;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
   letter-spacing: 0.5px;
+  font-weight: 500;
+}
+.event-card .event-venue {
+  margin-bottom: 12px;
+  color: var(--rose-dark);
+  font-size: 0.85rem;
   font-weight: 500;
 }
 .event-card p { font-size: 0.9rem; color: #6b5b5f; }
